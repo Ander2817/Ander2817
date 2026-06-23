@@ -34,7 +34,7 @@ Linux Git GitHub
 
 ⚡ Always learning and pushing code every day!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ander2817E&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ander2817&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ander2817&layout=compact&theme=tokyonight)
 
 ---
